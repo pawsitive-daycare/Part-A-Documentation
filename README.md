@@ -1,7 +1,7 @@
 # Pawsitive Daycare 
----
+
 ## Kevin Phoung and John Niduelan
----
+
 ## Project Links: 
 - [GitHub Repository - Documentation](https://github.com/pawsitive-daycare/Part-A-Documentation)
 
@@ -27,12 +27,12 @@ The main target audience of Pawsitive Daycare
 
 Pet owners who are :
 1. Travel overseas often for work and need for pet care when they are away
-2. Have busy schedule during the day but want theur fur companion have outdoor time and excercise
-3. Have limited mobility or condition that makes caring for their pets challenging
+2. Have busy schedule during the day but want their fur companions have outdoor time and excercise
+3. Have limited mobility or condition that makes caring for their pet/s challenging
 
 
 ## Tech stack
-Pawsitive Daycare is build with
+Pawsitive Daycare is built with
 
  - **M**ongoDB: A flexible NoSQL database for efficient data storage.
  - **E**xpress: A Node.js web framework for smooth routing and middleware.
@@ -48,25 +48,25 @@ Additional technologies we used:
 
 ## Dataflow Diagram
 
----
+
 
 ## Application Architecture Diagram
 
----
+
 
 ## User Stories
 
----
+
 
 ## Wireframes
 
----
+
 
 ### Project Management
 - [Trello Project Board](https://trello.com/invite/b/673454d54f89a5229f48eeaf/ATTI6efffa00ea68d2fa3d7c7d2a3b0c95f3AB78F6DB/fullstack-app)
 
----
 
-### Testing DOcumentation
 
----
+### Testing Documentation
+
+
