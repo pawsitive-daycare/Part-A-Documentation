@@ -32,3 +32,25 @@ The main target audience for our website are pet owners.
 
 ## Tech stack
 
+### Front-end
+- HTML
+- CSS
+### Back-end
+
+### Database
+
+### Deployment
+
+### Project Management Tools 
+- Trello
+
+
+### Testing
+
+### DevOps
+- Git
+- Github
+- VS Code
+
+### Design Tools
+- Figma
