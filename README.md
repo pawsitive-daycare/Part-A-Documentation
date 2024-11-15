@@ -56,6 +56,36 @@ Additional technologies we used:
 
 ## User Stories
 
+User stories progress, November 15:
+
+User/client
+
+As a : Pet owner user
+I want to: be able to easily register and login to my account
+So that: i am able to access my dashboard and manage bookings and profile
+
+As a : Pet owner user
+I want to: be able to book a daycare for my pets online
+So that: i don't have to worry about caring for them when i’m busy
+
+As a : Pet owner user
+I want to: be able to make a profile for my pets
+So that: I can put all of my pets records/information for best care instructions
+
+As a : Pet owner user
+I want to: be able to view and select from the offered services
+So that: I can choose what services I want for my pet’s needs.
+	
+Business
+
+As a : manager/admin
+I want to: access an admin dashboard where i can manage bookings and schedule
+So that: i can allocate tasks to staff members
+
+As a : manager/admin
+I want to: manage user roles in the system 
+So that: i can manage sensitive information and can only be accessed by authorised staff
+
 
 
 ## Wireframes
