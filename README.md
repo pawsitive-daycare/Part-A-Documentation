@@ -48,7 +48,7 @@ Additional technologies we used:
 
 ## Dataflow Diagram
 
-![Dataflow diagram](./dataflow%20diagram.drawio.pngZone.Identifier)
+![Dataflow diagram](./docs/dataflow%20diagram.drawio.png)
 
 ## Application Architecture Diagram
 
