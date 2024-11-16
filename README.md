@@ -86,6 +86,13 @@ As a : manager/admin
 I want to: manage user roles in the system  
 So that: i can manage sensitive information and can only be accessed by authorised staff  
 
+User stories progress, November 16:
+
+Here, we've implemented our user stories the true "persona" effect that highlight the purpose of our website, the diverse audience we aim to serve, and the meaningful impact our website can have in their lives.
+![User1](./docs/User_stories/1.jpg) 
+![User1](./docs/User_stories/2.jpg) 
+![User1](./docs/User_stories/3.jpg) 
+![User1](./docs/User_stories/4.jpg) 
 
 ## Wireframes
 
