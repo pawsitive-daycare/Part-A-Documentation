@@ -1,6 +1,6 @@
 # Pawsitive Daycare 
 
-## Kevin Phoung and John Niduelan
+## Kevin Phuong and John Niduelan
 
 ## Project Links: 
 - [GitHub Repository - Documentation](https://github.com/pawsitive-daycare/Part-A-Documentation)
