@@ -52,7 +52,7 @@ Additional technologies we used:
 
 ## Application Architecture Diagram
 
-
+![Application architecture diagram](./docs/Application%20Architecture%20Diagram.png)
 
 ## User Stories
 
