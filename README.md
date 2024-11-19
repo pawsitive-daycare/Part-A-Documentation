@@ -15,9 +15,11 @@ The purpose of this project is to help with being able to connect the business w
 ## Functionality/features
 
 - **Register/login**: this allows users to create and login to an account securely to access features
-- **Dashboard**: a hub where users can manage thier account, view current bookings and access any saved information. This includes the following features:
-         - **Pet profiles**: Users can create detailed profiles of their pet/s and can be updated to their preferences including breed, age, dietary needs, medical history and special instruction that will allow the business to provide the best possible service
-         - **Booking system**: allows easy scheduling for users to book a preferred time and dates for services
+- **Dashboard**: a hub where users can manage thier account, view current bookings and access any saved information. This includes the following features: 
+
+    - **Pet profiles**: Users can create detailed profiles of their pet/s and can be updated to their preferences including breed, age, dietary needs, medical history and special instruction that will allow the business to provide the best possible service
+
+    - **Booking system**: allows easy scheduling for users to book a preferred time and dates for services
 - **Contact Us section**: provides ways for users to reach the business
 - **services Information**: outlines the cost of offered services information of the business to help users with decisions.
 
