@@ -95,7 +95,7 @@ Here, we've implemented our user stories the true "persona" effect that highligh
 ![User1](./docs/User_stories/1.jpg) 
 ![User1](./docs/User_stories/2.jpg) 
 ![User1](./docs/User_stories/3.jpg) 
-![User1](./docs/User_stories/4.jpg) 
+
 
 User stories progress, November 17:
 
@@ -128,7 +128,7 @@ As: Carlos
 I want to: schedule Luna’s walks during work hours     
 so that: she gets the exercise she needs while I’m at the office
 
-User/Admin Dashboard:
+User Dashboard:
 
 User    
 As: Emily    
@@ -138,19 +138,6 @@ so that: I can save time when planning Max’s daycare visits
 As: Linda    
 I want to: be able to create,read,update and delete any information in my dashboard    
 so that: i am able to organise and manage my account 
-
-Admin    
-As: Mia or Tom      
-I want to: access an admin dashboard where I can view and manage all bookings and schedules    
-so that: I can ensure tasks are efficiently allocated to the right staff members
-
-As: Tom or Mia     
-I want to: use the admin dashboard to monitor bookings and resolve any scheduling conflicts   
-so that: operations run smoothly and efficiently
-
-As: Tom      
-I want to: define permissions and roles in the system     
-so that: staff members have access only to the information they need to perform their tasks, ensuring data security and compliance
 
 Contact Us section:
 
@@ -162,7 +149,7 @@ As: Emily
 I want to: be able to have a quick way to contact support     
 so that: I can ask questions about availability while planning my trips
 
-Pricing Information:
+Services Information:
 
 As: Carlos     
 I want to: see clear pricing details    
