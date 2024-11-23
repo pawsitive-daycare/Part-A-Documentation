@@ -14,11 +14,14 @@ The purpose of this project is to help with being able to connect the business w
 
 ## Functionality/features
 
-- **Register/login**: this allows users to create and login to an account to keep track of preexisting bookings and any information that is saved
-- **Pet profiles**: Users can create detailed profiles of their pet/s and can be updated to their preferences including breed, age, dietary needs, medical history and special instruction that will allow the business to provide the best possible service
-- **Booking system**: allows easy scheduling for users to book a time and date for services
+- **Register/login**: this allows users to create and login to an account securely to access features
+- **Dashboard**: a hub where users can manage thier account, view current bookings and access any saved information. This includes the following features: 
+
+    - **Pet profiles**: Users can create detailed profiles of their pet/s and can be updated to their preferences including breed, age, dietary needs, medical history and special instruction that will allow the business to provide the best possible service
+
+    - **Booking system**: allows easy scheduling for users to book a preferred time and dates for services
 - **Contact Us section**: provides ways for users to reach the business
-- **Pricing Information**: to display the cost of offered services of the business
+- **services Information**: outlines the cost of offered services information of the business to help users with decisions.
 
 
 ## Target Audience
@@ -52,7 +55,7 @@ Additional technologies we used:
 
 ## Application Architecture Diagram
 
-
+![Application architecture diagram](./docs/Application%20Architecture%20Diagram.png)
 
 ## User Stories
 
@@ -85,6 +88,72 @@ So that: i can allocate tasks to staff members
 As a : manager/admin  
 I want to: manage user roles in the system  
 So that: i can manage sensitive information and can only be accessed by authorised staff  
+
+User stories progress, November 16:
+
+Here, we've implemented our user stories the true "persona" effect that highlight the purpose of our website, the diverse audience we aim to serve, and the meaningful impact our website can have in their lives.
+![User1](./docs/User_stories/1.jpg) 
+![User1](./docs/User_stories/2.jpg) 
+![User1](./docs/User_stories/3.jpg) 
+
+
+User stories progress, November 17:
+
+We refined our user stories by incorporating detailed personas aligned with our primary goals and key features for the website.
+
+Register/login:
+
+As: Emily    
+I want to: be able to quickly register and log in to my account       
+so that: I can manage Max’s care services on the go, even when I’m travelling internationally
+
+As: Linda      
+I want: a simple and accessible login option      
+so that: I can manage Bella’s bookings without any technical difficulties
+
+
+Pet profiles:
+
+As: Carlos    
+I want to: update Luna’s profile with her energy levels and activity preferences     
+so that: her walker can tailor her outings
+
+As:  Linda    
+I want to: include Bella’s medical needs and limitations in her profile     
+so that: caregivers can ensure she’s comfortable and safe
+
+Booking system:
+
+As: Carlos    
+I want to: schedule Luna’s walks during work hours     
+so that: she gets the exercise she needs while I’m at the office
+
+User Dashboard:
+
+User    
+As: Emily    
+i want to: access a user-friendly dashboard where i can view and manage recurring bookings     
+so that: I can save time when planning Max’s daycare visits
+
+As: Linda    
+I want to: be able to create,read,update and delete any information in my dashboard    
+so that: i am able to organise and manage my account 
+
+Contact Us section:
+
+As: Linda      
+I want to: use the contact form to make special requests for Bella’s care     
+so that: her unique needs are met
+
+As: Emily      
+I want to: be able to have a quick way to contact support     
+so that: I can ask questions about availability while planning my trips
+
+Services Information:
+
+As: Carlos     
+I want to: see clear pricing details    
+so that: I can choose premium services for Luna within my budget
 
 
 ## Wireframes
