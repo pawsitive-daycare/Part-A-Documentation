@@ -160,7 +160,14 @@ so that: I can choose premium services for Luna within my budget
 
 The wireframes for our project have been included below and can also be accessed at this [link](https://www.figma.com/design/96baP2jlU3NRj2xUBu0SNX/Wireframe?node-id=59-92&node-type=frame&t=Ij2hnqVLK4vRaEmt-0)
 
-
+![Landing Page](./docs/Wireframes/Landing%20Page%20Wireframe.PNG)
+![Our Services Page](./docs/Wireframes/Our%20Services%20Page%20Wireframe.PNG)
+![Contact Us Page](./docs/Wireframes/Contact%20Us%20Page%20Wireframe.PNG)
+![About Us Page](./docs/Wireframes/About%20Us%20Page.PNG)
+![Login/Sign Up Page](./docs/Wireframes/Login%20sign%20up%20page.PNG)
+![Dashboard](./docs/Wireframes/Dashboard%20-%20bookings%20system.PNG)
+![Dashboard - Booking System](./docs/Wireframes/Dashboard%20-%20bookings%20system.PNG)
+![Dashboard - Pet Profile](./docs/Wireframes/Dashboard%20-%20pet%20profile.PNG)
 
 ### Project Management
 - [Trello Project Board](https://trello.com/invite/b/673454d54f89a5229f48eeaf/ATTI6efffa00ea68d2fa3d7c7d2a3b0c95f3AB78F6DB/fullstack-app)
