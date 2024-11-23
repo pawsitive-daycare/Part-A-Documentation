@@ -89,6 +89,8 @@ So that: i can manage sensitive information and can only be accessed by authoris
 
 ## Wireframes
 
+The wireframes for our project have been included below and can also be accessed at this [link](https://www.figma.com/design/96baP2jlU3NRj2xUBu0SNX/Wireframe?node-id=59-92&node-type=frame&t=Ij2hnqVLK4vRaEmt-0)
+
 
 
 ### Project Management
