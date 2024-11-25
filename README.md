@@ -1,5 +1,5 @@
 # Pawsitive Daycare 
-
+![Logo](./docs/Project%20logo.png)
 ## Kevin Phuong and John Niduelan
 
 ## Project Links: 
@@ -45,17 +45,18 @@ Pawsitive Daycare is built with
 Additional technologies we used:
 
  - HTML and CSS: Foundational for structuring and styling our user interface.
+ - Mongoose: Facilitates MongoDB object modeling and validation.
 
 
 ---
 
 ## Dataflow Diagram
 
-![Dataflow diagram](./docs/dataflow%20diagram.drawio.png)
+![Dataflow diagram](./docs/Diagrams/New_dataFlowDiagram.png)
 
 ## Application Architecture Diagram
 
-![Application architecture diagram](./docs/Application%20Architecture%20Diagram.png)
+![Application architecture diagram](./docs/Diagrams/Application%20Architecture%20Diagram.png)
 
 ## User Stories
 
@@ -172,8 +173,10 @@ The wireframes for our project have been included below and can also be accessed
 ### Project Management
 - [Trello Project Board](https://trello.com/invite/b/673454d54f89a5229f48eeaf/ATTI6efffa00ea68d2fa3d7c7d2a3b0c95f3AB78F6DB/fullstack-app)
 
-
-
-### Testing Documentation
-
-
+![trello1](./docs/trello/trello1.png) 
+![trello2](./docs/trello/trello2.png) 
+![trello3](./docs/trello/trello3.png) 
+![trello4](./docs/trello/trello4.png) 
+![trello5](./docs/trello/trello5.png) 
+![trello6](./docs/trello/trello6.png) 
+![trello7](./docs/trello/trello7.png) 
