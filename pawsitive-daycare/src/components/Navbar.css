@@ -1,12 +1,42 @@
 .navbar {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: space-between; /* Spread out the content */
+    align-items: center; /* Align items vertically */
     background: #2a2a72;
     color: white;
-    padding: 10px 20px;
+    padding: 15px 30px;
   }
   
+  .navbar .menu {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    gap: 30px; /* Space between the navigation items */
+    flex-grow: 1; /* Allow the menu to take up available space */
+  }
+
+  .navbar .menu li {
+    font-size: 1rem; /* Font size for the navigation items */
+  }
+  
+  .navbar .menu li a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar .cta-buttons {
+    display: flex;
+    align-items: center; /* Align buttons horizontally */
+    gap: 20px; /* Space between the buttons */
+  }
+
+  .navbar .menu li a:hover {
+    color: #ff6f61; /* Change color on hover */
+  }
+
   .nav-links ul {
     display: flex;
     list-style: none;
@@ -21,15 +51,41 @@
     text-decoration: none;
   }
   
-  .auth-buttons button {
-    margin: 0 5px;
-    padding: 5px 10px;
-    background: white;
+  .navbar .cta-buttons {
+    display: flex;
+    align-items: center; /* Align buttons vertically on the same line */
+    gap: 20px; /* Space between the buttons */
+  }
+
+  .navbar .login-btn {
+    background-color: #334486; /* Blue background */
+    color: white;
+    padding: 8px 18px; /* Adjust padding for smaller size */
     border: none;
-    color: #2a2a72;
+    border-radius: 50%; /* Make it circular */
+    font-size: 0.875rem; /* Smaller font size */
+    width: 40px; /* Set width and height for a circular button */
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     cursor: pointer;
+    transition: background-color 0.3s ease;
   }
   
+  .navbar .login-btn:hover {
+    background-color: #ff6f61; /* Change to a red color on hover */
+  }
+
+  .navbar .logo {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+  }
+
   .hamburger-menu {
     display: none;
     font-size: 1.5em;
@@ -59,3 +115,23 @@
     }
   }
   
+
+  .logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+  }
+  
+  .logo img {
+    width: 40px; /* Set a specific width */
+    height: 40px; /* Set a specific height, should be equal to width for a perfect circle */
+    border-radius: 50%; /* Make the image circular */
+    object-fit: cover; /* Ensures the image covers the container without distorting */
+    margin-right: 10px; /* Space between logo and text */
+  }
+  
+  .logo span {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }

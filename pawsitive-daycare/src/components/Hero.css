@@ -1,20 +1,52 @@
 .hero {
-    background: url('../assets/images/Cat\ background.jpg') no-repeat center center/cover;
-    color: white;
+  position: relative;
+  width: 100%;
+  height: 500px;
+  background: url('../assets/Cat\ background.jpg') center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(5px);
+    z-index: 1;
+  }
+  
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 30px 40px;
+    border-radius: 15px;
     text-align: center;
-    padding: 50px 20px;
+    max-width: 600px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   }
   
-  .hero h1 {
-    font-size: 2.5em;
+  .hero-content h1 {
+    font-size: 2.5rem;
+    color: #334486;
+    margin-bottom: 10px;
   }
   
-  .hero-buttons button {
-    margin: 10px;
-    padding: 10px 20px;
-    background: #2a2a72;
-    border: none;
-    color: white;
+  .hero-content p {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 20px;
+  }
+
+  .hero-content button {
+    margin: 10px 5px;
+    padding: 10px 20px; 
+    border-radius: 5px;
     cursor: pointer;
+    font-size: 1rem;
   }
-  

@@ -1,5 +1,7 @@
 import React, { useState } from "react";
+import logo from "../assets/logo.jpg";
 import "./Navbar.css";
+
 
 function Navbar() {
     const [menuOpen, setMenuOpen] = useState(false);
@@ -10,17 +12,22 @@ function Navbar() {
 
     return (
         <header className="navbar">
-            <div className="logo">PAWsitive Daycare</div>
+            <a href="#home" className="logo">
+                <img src={logo} alt="PAWsitive Daycare Logo"
+                style={{height: "40px", marginRight: "10px"}}/>PAWsitive Daycare
+            </a>
+            
             <nav className={`nav-links ${menuOpen ? "mobile" : ""}`}>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">Pricing</a></li>
-                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#pricing">Pricing</a></li>
+                    <li><a href="#contact">Contact Us</a></li>
                 </ul>
-                <div className="auth-button">
-                    <button className="login-btn">Login</button>
-                    <button className="signup-btn">Sign Up</button>
+                <div className="nav-button">
+                    <button className="login-btn">
+                        <span className="login-text">Log In</span>
+                    </button>
                 </div>
             </nav>
             <button className="hamburger-menu" onClick={toggleMenu}>
