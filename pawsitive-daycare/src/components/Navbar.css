@@ -1,0 +1,61 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #2a2a72;
+    color: white;
+    padding: 10px 20px;
+  }
+  
+  .nav-links ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  .nav-links ul li {
+    margin: 0 10px;
+  }
+  
+  .nav-links ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .auth-buttons button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    background: white;
+    border: none;
+    color: #2a2a72;
+    cursor: pointer;
+  }
+  
+  .hamburger-menu {
+    display: none;
+    font-size: 1.5em;
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  @media (max-width: 768px) {
+    .nav-links {
+      display: none;
+      flex-direction: column;
+      position: absolute;
+      top: 60px;
+      right: 20px;
+      background: #2a2a72;
+      padding: 10px;
+    }
+  
+    .nav-links.mobile {
+      display: flex;
+    }
+  
+    .hamburger-menu {
+      display: block;
+    }
+  }
+  
